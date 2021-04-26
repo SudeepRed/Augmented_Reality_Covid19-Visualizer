@@ -1,5 +1,6 @@
 # Covid19-Visualizer
 ## A Covid19 Visualizer in Augmented Reality
+### [Youtube Demo](https://youtu.be/bGC6znsIMs4)
 #### Currently Supports Android devices only.
 
 ![GIF of App](/videoDemo/Shot1_5.gif)
