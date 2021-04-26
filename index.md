@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Covid19-Visualizer
+## A Covid19 Visualizer in Augmented Reality
+### [Youtube Demo](https://youtu.be/bGC6znsIMs4)
+#### Currently Supports Android devices only.
 
-You can use the [editor on GitHub](https://github.com/expnoob/Covid19-Visualizer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![GIF of App](/videoDemo/Shot1_5.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Concept:
+  To visualize the covid19 data in Augmented Reality.
 
-### Markdown
+## Intent:
+  My intent while developing this app was to display the Covid19 data in an interactive way which anyone could visualize.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Goal:
+  My goal was to develop a starting point for others to play around with different states of india and display various information. My project could be used to display state wise weather forecast or help kids identify different states of india by looking at them.
+    
+  This project can also be used to develop complex apps such to display airline flight trails from one state to another or display the wind currents over different states.
 
-```markdown
-Syntax highlighted code block
+## Inspiration:
+There was an instagram post by [Matthew Hallberg](https://www.instagram.com/matthewhallberg/?hl=en) where he showcases a [similar app](https://www.instagram.com/p/B-VeNQxDdIl/?utm_source=ig_web_copy_link).
 
-# Header 1
-## Header 2
-### Header 3
+    1.To try in Android install the app from apk folder.
+    2.Also take a printout of image from ImageTarget folder.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/expnoob/Covid19-Visualizer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How to set-up
+    1.Clone this repo
+    2.print out the image from ImageTarget folder.
+    3.Open the Project in Unity and Run.
+    4.Scan the Image Target from your webcam and see the output.
