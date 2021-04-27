@@ -19,7 +19,8 @@
 ## Inspiration:
 There was an instagram post by [Matthew Hallberg](https://www.instagram.com/matthewhallberg/?hl=en) where he showcases a [similar app](https://www.instagram.com/p/B-VeNQxDdIl/?utm_source=ig_web_copy_link).
 
-    1.To try in Android install the app from apk folder.
+## How to run on your device?
+    1.Install the app from apk folder.
     2.Also take a printout of image from ImageTarget folder.
 
 ## How to set-up
